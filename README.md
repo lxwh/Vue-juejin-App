@@ -9,7 +9,7 @@
 ## 安装与运行
 
 ```
-https://github.com/Aaron0525/Vue-juejin-App.git
+https://github.com/lxwh/Vue-juejin-App.git
 cd Vue-juejin-App
 
 npm install //安装依赖
